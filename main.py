@@ -17,7 +17,7 @@ headers = {
     'Content-Type': 'application/x-www-form-urlencoded',
     'charset': 'UTF-8'
 }
-vpn_key = '75ca2ad42a9f37785b219e48ade8482d'
+vpn_key = ''
 
 # 新建用户需要的信息
 name = ''
